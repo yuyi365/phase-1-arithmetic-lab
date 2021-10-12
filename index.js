@@ -5,7 +5,7 @@ let num4 = 6;
 
 const multiply = num1 * num2;
 
-const random = Math.ceil(Math.random() * 10);
+const random = Math.ceil(Math.random() * 10) + 1;
 
 const mod = num3 % num4;
 
